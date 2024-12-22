@@ -3,6 +3,9 @@
     padding: 14px 12px;
     background: #fff;
     border-radius: 8px;
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
 }
 .other_box h2{
     padding-bottom: 14px;
