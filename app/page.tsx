@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Navbar from "./components/navbar/Navbar";
 import Spec from "./components/specification/Spec";
 import Flipkart from "./components/flipkart/Flipkart";
