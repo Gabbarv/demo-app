@@ -1,0 +1,29 @@
+.specs{
+    display: flex;
+    gap: 10;
+    color: #7b879b;
+    align-items: center;
+    font-size: 12px;
+}
+.specs span{
+    margin: 2px 0;
+    font-size: 13px;
+    color: #2f466f;
+    display: block;
+}
+.view_specs_btn button{
+    width: 40%;
+    border-color: #007fdb;
+    border-radius: 50px;
+    height: 32px;
+    line-height: 31px;
+    min-width: 138px;
+    font-size: 14px;
+    border: 1px solid #007fdb;
+    color: #007fdb;
+    font-weight: 700;
+    margin-top: 24px;
+    margin-left: auto;
+    margin-right: auto;
+
+}

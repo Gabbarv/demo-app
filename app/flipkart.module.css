@@ -1,0 +1,45 @@
+.flipkart_w{
+    margin: 20 0 0;
+    font-size: 16px;
+    border-top: 1px solid #dedfdf;
+    padding: 13 10;
+    background-color: #fff;
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.flipkart_w h2{
+    color: #253858;
+    font-weight: bold;
+}
+.flipkart_price{
+    margin-top: 14px;
+    padding: 10px 10px;
+    border-color: #e1e9f5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+    color: #253858;
+    font-weight: 700;
+    border: 1px solid #e1e9f5;
+    
+
+}
+.flipkart_logo{
+    display: flex;
+    align-items: center;
+    gap: 10;
+}
+.flipkart_price button{
+    border: 1px solid #007fdb;
+    background: #007fdb;
+    color: #fff;
+    padding: 1px 19px;
+    height: auto;
+    transition: .3s;
+    border-radius: 50px;
+    font-size: 13px;
+    line-height: 28px;
+    min-width: 101px;
+}
